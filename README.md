@@ -522,3 +522,34 @@ Map of identity provider mappers to create. Each key is the mapper name.
 </details>
 
 <!-- END TF-DOCS -->
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check [issues page][issues_pages].
+
+You can also take a look at the [CONTRIBUTING.md][contributing].
+
+[issues_pages]: https://framagit.org/rdeville-public/opentofu/keycloak-identity-provider/-/issues
+[contributing]: https://framagit.org/rdeville-public/opentofu/keycloak-identity-provider/blob/main/CONTRIBUTING.md
+
+## 👤 Maintainers
+
+* 📧 [**Romain Deville** \<code@romaindeville.fr\>](mailto:code@romaindeville.fr)
+  * Website: [https://romaindeville.fr](https://romaindeville.fr)
+  * Github: [@rdeville](https://github.com/rdeville)
+  * Gitlab: [@r.deville](https://gitlab.com/r.deville)
+  * Framagit: [@rdeville](https://framagit.org/rdeville)
+
+## 📝 License
+
+Copyright © 2026
+ * [Romain Deville \<code@romaindeville.fr\>](code@romaindeville.fr)
+
+This project is under following licenses (**OR**) :
+
+* [MIT][main_license]
+* [BEERWARE][beerware_license]
+
+[main_license]: https://framagit.org/rdeville-public/opentofu/keycloak-identity-provider/blob/main/LICENSE
+[beerware_license]: https://framagit.org/rdeville-public/opentofu/keycloak-identity-provider/blob/main/LICENSE.BEERWARE
