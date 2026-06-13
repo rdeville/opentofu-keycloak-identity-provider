@@ -1,0 +1,113 @@
+# Project Specific
+
+.envrc.*
+.terraform.lock.hcl
+provider.tf
+
+# Created by https://www.toptal.com/developers/gitignore/api/archive,archives,backup,direnv,dotenv,emacs,linux,macos,nohup,ssh,tags,vim,windows,zsh,vs,visualstudio,terraform
+
+### Terraform ###
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+*.tfvars
+*.tfvars.json
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+.terraformrc
+terraform.rc
+
+### direnv ###
+.direnv
+.envrc
+
+### dotenv ###
+.env
+
+### Backup ###
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+.apdisk
+
+### Linux ###
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+### Vim ###
+[._]*.s[a-v][a-z]
+!*.svg
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+[._]*.un~
+
+### Zsh ###
+*.zwc
+*.zwc.old
+*zcompdump*
+.zsh_history
+.zsh_sessions
+.zcalc_history
+._zinit
+.zinit_lstupd
+zsdoc/data
+.directory_history
+.venv
+/tests/_output/*
+!/tests/_output/.gitkeep
+
+### Tags ###
+TAGS
+.TAGS
+!TAGS/
+tags
+.tags
+!tags/
+gtags.files
+GTAGS
+GRTAGS
+GPATH
+GSYMS
+cscope.files
+cscope.out
+cscope.in.out
+cscope.po.out
+
+### Node ###
+node_modules/

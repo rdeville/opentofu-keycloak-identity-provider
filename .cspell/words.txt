@@ -1,0 +1,27 @@
+# Common word present in all my project
+autofix
+blockquote
+commitlint
+commitlintrc
+commitlist
+datetime
+devbox
+endmacro
+filesystems
+Framagit
+gitmoji
+gitmojis
+parseable
+Refactorize
+releaserc
+SCRIPTPATH
+endfor
+lstrip
+autoescape
+# Module specific
+keycloak
+opentofu
+oidc
+idp
+syncmode
+mappers
